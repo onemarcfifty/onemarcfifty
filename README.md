@@ -19,3 +19,7 @@ You can find me on [Twitter](https://twitter.com/onemarcfifty) and [Patreon](htt
 - 🔭 I’m currently working on ansible, hashicorp terraform, IPv6...
 - 📫 How to reach me: [Discord](https://discord.com/invite/DXnfBUG)
 - 👯 I’m looking to collaborate with other YouTubers on common projects. Contact me!
+
+## Repo stats
+
+![repo stats](https://github-readme-stats.vercel.app/api?username=onemarcfifty&show_icons=true)
