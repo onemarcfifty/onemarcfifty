@@ -22,4 +22,7 @@ You can find me on [Twitter](https://twitter.com/onemarcfifty) and [Patreon](htt
 
 ## Repo stats
 
-![repo stats](https://github-readme-stats.vercel.app/api?username=onemarcfifty&show_icons=true)
+![repo stats](https://github-readme-stats.vercel.app/api?username=onemarcfifty&show_icons=true&theme=blue-green)
+
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=onemarcfifty&theme=blue-green)
+
