@@ -2,7 +2,7 @@
 
 # Hi, there! 👋
 
-I'm Marc - a DIY Enthusiast and Digital Creator from Germany. I work as a presales consultant for a software vendor and love to do Computer Networks, Automation, Virtualization and micro controller stuff in my free time. 
+I'm Marc - a DIY Enthusiast and Digital Creator from Germany. I love to do Computer Networks, Automation, Virtualization and micro controller stuff in my free time. 
 
 ## Find me on YouTube
 
