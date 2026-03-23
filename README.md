@@ -12,13 +12,7 @@ I am running a YouTube channel, mainly around OpenWrt, Proxmox and Linux.
 
 ## Find me on social media
 
-You can find me on [Twitter](https://twitter.com/onemarcfifty) and [Patreon](https://patreon.com/onemarcfifty). You might also want to check out [my Blog](https://www.onemarcfifty.com)
-
-## Get in Touch !
-
-- 🔭 I’m currently working on ansible, hashicorp terraform, IPv6...
-- 📫 How to reach me: [Discord](https://discord.com/invite/DXnfBUG)
-- 👯 I’m looking to collaborate with other YouTubers on common projects. Contact me!
+You can find me on [Discord](https://discord.com/invite/DXnfBUG) or [Patreon](https://patreon.com/onemarcfifty). You might also want to check out [my Blog](https://www.onemarcfifty.com)
 
 ## Repo stats
 
